@@ -7,3 +7,6 @@ Requires `numpy`, `matplotlib` and `neuron` that can be installed by running
 $ pip3 install neuron numpy matplotlib
 ```
 To simulate run `python ball_and_stick.py`.
+```
+$ python ball_and_stick.py
+```
