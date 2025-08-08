@@ -1,4 +1,4 @@
-# BallNStick
+# Ball And Stick Neuron Model
 Simple Ball and Stick neuron model simulated in the NEURON simulator in Python.
 It is used to test how the extracellular mechanism affects the neuron.
 
